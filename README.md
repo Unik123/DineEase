@@ -1,4 +1,4 @@
-# dine
+# DineEase
 
 A new Flutter project.
 
